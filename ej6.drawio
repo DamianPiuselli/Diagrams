@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T19:38:21.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Dd2Wq39GBhJHLRl4EjQi" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T22:10:16.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TJUTVmTJZwNnz4ny2zqh" version="24.2.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -204,6 +204,9 @@
             <mxPoint x="440" y="490" as="sourcePoint" />
             <mxPoint x="530" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sv5eaZTl3coV6v7jDIFs-50" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left:.25in;text-align:justify;text-indent:&lt;br/&gt;-.25in;mso-list:l0 level1 lfo1;tab-stops:.2in .25in .7in 1.2in 1.7in 2.2in 2.7in 3.2in 3.7in 4.2in 4.7in&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AEROPUERTO (nombre-aeropuerto, ciudad)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align:justify;tab-stops:.2in .7in 1.2in 1.7in 2.2in 2.7in 3.2in 3.7in 4.2in 4.7in&quot;&gt;&lt;span lang=&quot;ES&quot; style=&quot;mso-ansi-language:ES&quot;&gt;VUELO (nro_vuelo, día_hora_salida,&lt;br&gt;aeropuerto_origen, aeropuerto_destino)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align:justify;mso-outline-level:1;tab-stops:&lt;br/&gt;.2in .7in 1.2in 1.7in 2.2in 2.7in 3.2in 3.7in 4.2in 4.7in&quot;&gt;&lt;span lang=&quot;ES&quot; style=&quot;mso-ansi-language:ES&quot;&gt;ESCALA (nro_vuelo, aerop_desde, aerop_hasta)&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
